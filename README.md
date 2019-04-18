@@ -1,2 +1,2 @@
 # Applied Data Science Capstone
-this repository is a assignment of Applied Data Science Capstone in Coursera
+this repository is assignment of Applied Data Science Capstone in Coursera
